@@ -1,0 +1,114 @@
+.leadership-hero{
+
+    padding:180px 8% 100px;
+
+    text-align:center;
+
+}
+
+.leadership-hero h1{
+
+    font-size:4rem;
+
+    margin-bottom:20px;
+
+}
+
+.leadership-hero p{
+
+    color:var(--silver);
+
+    max-width:800px;
+
+    margin:auto;
+
+    line-height:1.8;
+
+}
+
+.quote-section{
+
+    padding:50px 8%;
+
+}
+
+.quote-card{
+
+    background:rgba(255,255,255,.05);
+
+    border:1px solid rgba(255,255,255,.08);
+
+    border-radius:30px;
+
+    padding:60px;
+
+    text-align:center;
+
+}
+
+.quote-card h2{
+
+    color:var(--gold);
+
+    line-height:1.6;
+
+}
+
+.philosophy-grid{
+
+    padding:80px 8%;
+
+    display:grid;
+
+    grid-template-columns:
+    repeat(auto-fit,minmax(250px,1fr));
+
+    gap:25px;
+
+}
+
+.philosophy-card{
+
+    background:rgba(255,255,255,.05);
+
+    border-radius:20px;
+
+    padding:35px;
+
+}
+
+.philosophy-card h3{
+
+    color:var(--gold);
+
+    margin-bottom:15px;
+
+}
+
+.philosophy-card p{
+
+    color:var(--silver);
+
+    line-height:1.8;
+
+}
+
+.future-section{
+
+    padding:80px 8% 120px;
+
+    text-align:center;
+
+}
+
+.future-section p{
+
+    max-width:900px;
+
+    margin:auto;
+
+    color:var(--silver);
+
+    line-height:2;
+
+}
