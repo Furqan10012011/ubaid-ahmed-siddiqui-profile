@@ -691,3 +691,8 @@ footer p{
         grid-template-columns: 1fr;
     }
 }
+
+
+.nav-links.active {
+    display: flex;
+}
